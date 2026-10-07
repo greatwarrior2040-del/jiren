@@ -1,0 +1,8 @@
+{
+  "runtime": "static",
+  "platformVersion": 15,
+  "entry": "index.html",
+  "name": "Cherry Coiffure — Site vitrine",
+  "slug": "cherry-coiffure-site-vitrine-2",
+  "managedCronJobs": []
+}
